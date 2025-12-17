@@ -5,6 +5,8 @@
 }
 
 body {
+  background: url("jojo_1080x1920.jpg") center #45a049/
+  cover no-repeat fixed;
   font-family: Arial, sans-serif;
   background-color: #f1f1f1;
   display: flex;
