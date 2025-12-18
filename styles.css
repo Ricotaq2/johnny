@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url("jojo_1080x1920.jpg") center /
+  background: url("Montage_1.jpg") center /
   cover no-repeat fixed;
   font-family: Arial, sans-serif;
   background-color: #f1f1f1;
@@ -17,7 +17,8 @@ body {
 
 .quiz-container {
   text-align: center;
-  background-color: white;
+  /** background-color: white; */
+  background-color: rgba(30, 143, 255, 0.488);  
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
